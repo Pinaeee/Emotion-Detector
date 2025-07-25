@@ -103,6 +103,4 @@ If you try to enter text in another language or an invalid text, the webpage may
 
 To stop the application, use `Ctrl + C` in the Terminal
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
