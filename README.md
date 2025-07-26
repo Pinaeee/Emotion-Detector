@@ -49,7 +49,7 @@ To run this project on IBM Cloud IDE, open the Terminal and follow these steps:
 1. Clone the repository:
 
     ```sh
-    $ git clone https://github.com//emotion-detection.git
+    $ [git clone https://github.com//emotion-detection.git](https://github.com/Pinaeee/Emotion-Detector.git)
     ```
 
 2. Install the required dependencies:
