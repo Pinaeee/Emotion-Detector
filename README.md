@@ -14,7 +14,6 @@ This repository is home to an **Emotion Detection** application powered by the *
   - [Features](#features)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [License](#license)
 
 ## Prerequirements
 
